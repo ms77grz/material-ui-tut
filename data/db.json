@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "details": "This is a test",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "Need money!",
+      "details": "Money money money",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Just another title",
+      "details": "Something here to read",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "The girl belonged to one of Hinduism’s most oppressed castes",
+      "details": "Anger was mounting in parts of India on Wednesday after four men were arrested for the alleged rape and murder of a nine-year-old girl, whose death has brought into focus both rampant sexual violence as well as caste prejudice in the country.",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Trump seeks to block Treasury Department",
+      "details": "The committee’s stated reason for seeking the returns, to examine how the IRS audits presidents, is simply a pretext for wanting to look for something embarrassing, the lawyers said in a filing in federal court in Washington, adding that the legal authority invoked by Congress has never been used against a president, a former president or any elected official.",
+      "category": "money",
+      "id": 8
+    }
+  ]
+}
